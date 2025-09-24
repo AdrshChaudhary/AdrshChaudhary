@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/AdrshChaudhary/count.svg">
+<img src="https://komarev.com/ghpvc/?username=AdrshChaudhary" width=160px/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=661aff&size=30&lines=Hey!+It's+Aadarsh!;I'm+a+Python+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+INDIAN+IN)](https://git.io/typing-svg)
